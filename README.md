@@ -1,4 +1,4 @@
-# CIT Unofficial Discord Bot
+Discord Bot
 
 A multi-purpose, high-performance Discord bot serving multiple guilds with AI integration, ticketing, and moderation systems. Built natively in Python with `discord.py` and SQLite.
 
